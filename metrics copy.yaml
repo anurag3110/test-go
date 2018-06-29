@@ -1,0 +1,4 @@
+metrics:
+    - go_gc_duration_seconds
+    - up
+    - go_threads
